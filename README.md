@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Ahmad Nur Salim
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
+👩🏻‍💻 Frontend Web Dev sharing about my learnings in tech<br/>
 👩🏻‍🎓 Studied [Information Systems and Technology](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the Muhammadiyah University Kotabumi, Indonesia<br/>
 🎨 Making videos about Computer Science, tech, and productivity on [TikTok](https://www.tiktok.com/@ahmadnursalim_21)<br/>
 
